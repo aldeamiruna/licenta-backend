@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="inventory" transaction-type="RESOURCE_LOCAL">
+		<class>com.inventory.model.HistoryItem</class>
+		<class>com.inventory.model.Item</class>
+		<class>com.inventory.model.ItemType</class>
+		<class>com.inventory.model.Room</class>
+		<class>com.inventory.model.State</class>
+		<class>com.inventory.model.User</class>
+		<class>com.inventory.model.UserStatus</class>
+		<class>com.inventory.model.Document</class>
+		<class>model.Document</class>
+		<class>model.History_Item</class>
+		<class>model.Item</class>
+		<class>model.Item_Type</class>
+		<class>model.Room</class>
+		<class>model.State</class>
+		<class>model.User_Status</class>
+		<class>model.User</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:1433;databaseName=InventoryDashboard;integratedSecurity=true;"/>
+			<property name="javax.persistence.jdbc.user" value=""/>
+			<property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+		</properties>
+	</persistence-unit>
+</persistence>

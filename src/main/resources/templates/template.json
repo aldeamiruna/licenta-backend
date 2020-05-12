@@ -1,0 +1,115 @@
+{
+	"name": "Static Item Document",
+	"title": "Acceptance Protocol/ Proces-verbal de receptie ",
+	"subtitle": 
+	{
+		"text": "Number/Numar:     <1>      Date/Data:     <2>      ",
+		"params": []
+	},
+	"titleFontSize": "20",
+	"textFontSize": "11",
+	"lineSpacing": "15",
+	"fields": 
+	[
+		{
+			"text": "Newly acquired fixed asset/Mijloc fix nou Yes/Da _   No/Nu _",
+			"params": []
+		},
+		{
+			"text": "1.   Fixed asset name/Denumire mijloc fix:   <1>",
+			"params": []
+		},
+		{
+			"text": "2.   Tag number/Numar de inventar:   <1>",
+			"params": []
+		},
+		{
+			"text": "3.   Fixed asset ID/Cod identificare US:    <1>",
+			"params": []
+		},
+		{
+			"text": "4.   Reception date/Data receptiei:   <1>",
+			"params": []
+		},
+		{
+			"text": "5.   Placed-in-service date/Data punerii in functiune:   <1>",
+			"params": []
+		},
+		{
+			"text": "6.   Code from classification catalogue/Cod clasificare:   <1>",
+			"params": []
+		},
+		{
+			"text": "7.   Purchasing price according to the invoice/Pret de cumparare conform facturii:   <1>",
+			"params": []
+		},
+		{
+			"text": "8.   Transport/installation costs / Costuri de transport sau instalare:   <1>",
+			"params": []
+		},
+		{
+			"text": "9.   Acquisition cost of the fixed asset/Cost de achizitie:   <1>",
+			"params": []
+		},
+		{
+			"text": "(it will be calculated by the accounting department)",
+			"params": []
+		},
+		{
+			"text": "10.   Useful life/Durata de utilizare:  <1>  years/ani",
+			"params": []
+		},
+		{
+			"text": "(it will be filled out by the accounting department)",
+			"params": []
+		},
+		{
+			"text": "11.   Supporting documents enclosed to the Acceptance Protocol/Documente justificative atasate:  <1>  ",
+			"params": []
+		},
+		{
+			"text": "   -   Invoice number/Numar factura/ Date/Data:  <1>    <2>  ",
+			"params": []
+		},
+		{
+			"text": "   -   Supplier name/Denumire furnizor:  <1>  ",
+			"params": []
+		},
+		{
+			"text": "   -   Customs import declaration (DVI) number/ Date / Numar si data DVI:  <1>    <2>  ",
+			"params": []
+		},
+		{
+			"text": "   -   Transport/Installation invoices / Facturi de transport/instalare:  <1>  ",
+			"params": []
+		},
+		{
+			"text": "   -   Other documents/Alte documente:  <1>  ",
+			"params": []
+		},
+		{
+			"text": "12.   Person who is receiving the asset/Persoana care receptioneaza activul fix:",
+			"params": []
+		},
+		{
+			"text": "Name/Nume:  ________________________________  Signature/Semnatura:  ____________________",
+			"params": []
+		},
+		{
+			"text": "13.   Person who is responsible for the asset management /Persoana care este responsabila cu gestionarea activului fix:",
+			"params": []
+		},
+		{
+			"text": "Name/Nume:  ________________________________  Signature/Semnatura:  _____________________",
+			"params": []
+		},
+		{
+			"text": "Prepared by/Intocmit de: __________________________ ",
+			"params": []
+		},
+		{
+			"text": "Signature/Semnatura:____________________",
+			"params": []
+		}
+	]
+}
