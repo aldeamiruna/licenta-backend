@@ -1,2 +1,0 @@
-# inventorydashboard_backend
-backend
