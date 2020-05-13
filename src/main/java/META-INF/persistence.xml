@@ -9,14 +9,6 @@
 		<class>com.inventory.model.User</class>
 		<class>com.inventory.model.UserStatus</class>
 		<class>com.inventory.model.Document</class>
-		<class>model.Document</class>
-		<class>model.History_Item</class>
-		<class>model.Item</class>
-		<class>model.Item_Type</class>
-		<class>model.Room</class>
-		<class>model.State</class>
-		<class>model.User_Status</class>
-		<class>model.User</class>
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:1433;databaseName=InventoryDashboard;integratedSecurity=true;"/>
 			<property name="javax.persistence.jdbc.user" value=""/>
